@@ -20,7 +20,7 @@ public class EvenOdd {
             System.out.println(num + " is Odd");
         }
         
-        // Close scanner
+    
         sc.close();
     }
 }
